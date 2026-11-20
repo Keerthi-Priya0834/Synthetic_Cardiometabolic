@@ -131,6 +131,4 @@ GitHub: [Keerthi-Priya0834](https://github.com/Keerthi-Priya0834)
 
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star!
 
-**Exploring Deep Learning | Building AI Solutions for Healthcare**
